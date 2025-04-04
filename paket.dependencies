@@ -3,6 +3,7 @@ framework: net8.0
 storage: none
 
 nuget Expecto ~> 9
+nuget FsConfig
 nuget SAFE.Server ~> 5
 nuget SAFE.Client ~> 5
 
